@@ -1,5 +1,5 @@
 {
-  "homepage": "http://sdnc.github.io/sdnc.github.io/dist/index.html",
+  "homepage": "http://sdnc.github.io/sdnc.github.io/",
   "name": "portfolio-template",
   "version": "2.0.0",
   "description": "customizable portfolio template for developers",
@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite src",
-    "build": "vite build",
+   // "build": "vite build",
     "serve": "vite preview"
   },
   "keywords": [],
