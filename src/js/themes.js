@@ -3,17 +3,17 @@ const moonIcon = document.querySelector('.bi-moon-fill');
 const sunIcon = document.querySelector('.bi-brightness-high-fill');
 const themes = {
   light: {
-    primary: '#ffffff',
-    secondary: '#444f5a',
-    accent: '#0564bd',
+    primary: '#bde4f7',
+    secondary: '#0d4e6d',
+    accent: '#4cb5e8',
     primaryRGB: '255, 255, 255',
     secondaryRGB: '68, 79, 90'
   },
 
   dark: {
-    primary: '#22222b',
-    secondary: '#a2a1a6',
-    accent: '#0564bd',
+    primary: '#4a256f',
+    secondary: '#251336',
+    accent: '#8547c2',
     primaryRGB: '34, 34, 43',
     secondaryRGB: '162,161,166'
   }
