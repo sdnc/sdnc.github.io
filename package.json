@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite src",
-   // "build": "vite build",
+    "build": "vite build",
     "serve": "vite preview"
   },
   "keywords": [],
