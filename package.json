@@ -3,11 +3,11 @@
   "name": "portfolio-template",
   "version": "2.0.0",
   "description": "customizable portfolio template for developers",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite src",
     "build": "vite build",
     "serve": "vite preview"
